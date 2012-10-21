@@ -1,4 +1,11 @@
+.DS_Store
+target
+target/*
 *.class
+*cache*
+
+.project
+.classpath
 
 # Package Files #
 *.jar
